@@ -1,0 +1,12 @@
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\IntegerSetConsoleApp\IntegerSetConsoleApp\bin\Debug\IntegerSetConsoleApp.exe.config
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\IntegerSetConsoleApp\IntegerSetConsoleApp\bin\Debug\IntegerSetConsoleApp.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\IntegerSetConsoleApp\IntegerSetConsoleApp\bin\Debug\IntegerSetConsoleApp.pdb
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\IntegerSetConsoleApp\IntegerSetConsoleApp\obj\Debug\IntegerSetConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\IntegerSetConsoleApp\IntegerSetConsoleApp\obj\Debug\IntegerSetConsoleApp.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\IntegerSetConsoleApp\IntegerSetConsoleApp\obj\Debug\IntegerSetConsoleApp.pdb
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\IntegerSetConsoleApp\IntegerSetConsoleApp\bin\Debug\IntegerSetConsoleApp.exe.config
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\IntegerSetConsoleApp\IntegerSetConsoleApp\obj\Debug\IntegerSetConsoleApp.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\IntegerSetConsoleApp\IntegerSetConsoleApp\obj\Debug\IntegerSetConsoleApp.pdb
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project1\IntegerSetConsoleApp\IntegerSetConsoleApp\bin\Debug\IntegerSetConsoleApp.exe.config
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project1\IntegerSetConsoleApp\IntegerSetConsoleApp\obj\Debug\IntegerSetConsoleApp.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project1\IntegerSetConsoleApp\IntegerSetConsoleApp\obj\Debug\IntegerSetConsoleApp.pdb

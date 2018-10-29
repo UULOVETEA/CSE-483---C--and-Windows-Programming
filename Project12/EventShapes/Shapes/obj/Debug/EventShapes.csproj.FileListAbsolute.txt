@@ -1,0 +1,39 @@
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\EventShapes\Shapes\bin\Debug\Shapes.exe.config
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\EventShapes\Shapes\bin\Debug\Shapes.exe
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\EventShapes\Shapes\bin\Debug\Shapes.pdb
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\EventShapes\Shapes\obj\Debug\MainWindow.baml
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\EventShapes\Shapes\obj\Debug\MainWindow.g.cs
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\EventShapes\Shapes\obj\Debug\App.g.cs
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\EventShapes\Shapes\obj\Debug\Shapes_MarkupCompile.cache
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\EventShapes\Shapes\obj\Debug\Shapes.g.resources
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\EventShapes\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\EventShapes\Shapes\obj\Debug\EventShapes.csproj.GenerateResource.Cache
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\EventShapes\Shapes\obj\Debug\Shapes.exe
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\EventShapes\Shapes\obj\Debug\Shapes.pdb
+D:\CSE483\VCStudio\WindowsProgramming\WPF Samples\EventShapes\Shapes\obj\Debug\EventShapes.csprojResolveAssemblyReference.cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Class Supplements\Events\EventShapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Class Supplements\Events\EventShapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Class Supplements\Events\EventShapes\Shapes\obj\Debug\Shapes.pdb
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Class Supplements\Events\EventShapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Class Supplements\Events\EventShapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Class Supplements\Events\EventShapes\Shapes\obj\Debug\MainWindow.baml
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Class Supplements\Events\EventShapes\Shapes\obj\Debug\MainWindow.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Class Supplements\Events\EventShapes\Shapes\obj\Debug\App.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Class Supplements\Events\EventShapes\Shapes\obj\Debug\Shapes_MarkupCompile.cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Class Supplements\Events\EventShapes\Shapes\obj\Debug\Shapes.g.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Class Supplements\Events\EventShapes\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Class Supplements\Events\EventShapes\Shapes\obj\Debug\EventShapes.csproj.GenerateResource.Cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project12\EventShapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project12\EventShapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project12\EventShapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project12\EventShapes\Shapes\obj\Debug\EventShapes.csprojAssemblyReference.cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project12\EventShapes\Shapes\obj\Debug\MainWindow.baml
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project12\EventShapes\Shapes\obj\Debug\MainWindow.g.cs
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project12\EventShapes\Shapes\obj\Debug\App.g.cs
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project12\EventShapes\Shapes\obj\Debug\Shapes_MarkupCompile.cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project12\EventShapes\Shapes\obj\Debug\Shapes.g.resources
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project12\EventShapes\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project12\EventShapes\Shapes\obj\Debug\EventShapes.csproj.GenerateResource.cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project12\EventShapes\Shapes\obj\Debug\EventShapes.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project12\EventShapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project12\EventShapes\Shapes\obj\Debug\Shapes.pdb

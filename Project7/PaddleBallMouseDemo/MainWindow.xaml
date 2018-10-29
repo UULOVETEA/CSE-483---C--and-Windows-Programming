@@ -1,0 +1,46 @@
+﻿<Window x:Class="PaddleBallMouseDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PaddleBallMouseDemo"
+        mc:Ignorable="d"
+        Title="Paddle/Ball/Mouse Demo" Height="500" Width="750"
+        Loaded="WindowLoaded"
+        KeyDown="KeypadDown" 
+        KeyUp="KeypadUp" 
+        Closing="OnClosing"
+        >
+    <Grid>
+        <Canvas 
+            Name="BallCanvas"
+            Height="458" 
+            Width="730"
+            Background="BlanchedAlmond" MouseMove="BallCanvas_MouseMove" MouseRightButtonDown="BallCanvas_MouseRightButtonDown">
+            <Rectangle
+                Canvas.Top ="{Binding paddleCanvasTop}"
+                Canvas.Left="{Binding paddleCanvasLeft}"
+                Fill="{Binding PaddleFill}"
+                Height="{Binding paddleHeight}"
+                Width="{Binding paddleWidth}"
+                MouseLeftButtonDown="ChangeColor">
+            </Rectangle>
+            <Ellipse 
+                Name="TheBall"
+                Canvas.Top="{Binding ballCanvasTop}" 
+                Canvas.Left="{Binding ballCanvasLeft}"  
+                Width="{Binding ballWidth}" 
+                Height="{Binding ballHeight}" MouseLeftButtonDown="TheBall_MouseLeftButtonDown" MouseLeftButtonUp="TheBall_MouseLeftButtonUp"
+                >
+                <Ellipse.Fill>
+                    <RadialGradientBrush GradientOrigin="0.75,0.25">
+                        <GradientStop Color="Yellow" Offset="0.0" />
+                        <GradientStop Color="Orange" Offset="0.5" />
+                        <GradientStop Color="Red" Offset="1.0" />
+                    </RadialGradientBrush>
+                </Ellipse.Fill>
+            </Ellipse>
+
+        </Canvas>
+    </Grid>
+</Window>

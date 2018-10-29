@@ -1,0 +1,14 @@
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleDataBindingCalculator\SimpleDataBindingCalculator\bin\Debug\SimpleDataBindingCalculator.exe.config
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleDataBindingCalculator\SimpleDataBindingCalculator\bin\Debug\SimpleDataBindingCalculator.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleDataBindingCalculator\SimpleDataBindingCalculator\bin\Debug\SimpleDataBindingCalculator.pdb
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleDataBindingCalculator\SimpleDataBindingCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleDataBindingCalculator\SimpleDataBindingCalculator\obj\Debug\App.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleDataBindingCalculator\SimpleDataBindingCalculator\obj\Debug\SimpleDataBindingCalculator_MarkupCompile.cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleDataBindingCalculator\SimpleDataBindingCalculator\obj\Debug\SimpleDataBindingCalculator_MarkupCompile.lref
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleDataBindingCalculator\SimpleDataBindingCalculator\obj\Debug\MainWindow.baml
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleDataBindingCalculator\SimpleDataBindingCalculator\obj\Debug\SimpleDataBindingCalculator.g.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleDataBindingCalculator\SimpleDataBindingCalculator\obj\Debug\SimpleDataBindingCalculator.Properties.Resources.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleDataBindingCalculator\SimpleDataBindingCalculator\obj\Debug\SimpleDataBindingCalculator.csproj.GenerateResource.Cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleDataBindingCalculator\SimpleDataBindingCalculator\obj\Debug\SimpleDataBindingCalculator.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleDataBindingCalculator\SimpleDataBindingCalculator\obj\Debug\SimpleDataBindingCalculator.pdb
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleDataBindingCalculator\SimpleDataBindingCalculator\obj\Debug\SimpleDataBindingCalculator.csprojResolveAssemblyReference.cache

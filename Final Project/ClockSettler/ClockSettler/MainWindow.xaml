@@ -1,0 +1,22 @@
+﻿<Window x:Class="ClockSettler.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClockSettler"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="{Binding Hours}" VerticalAlignment="Top" Width="40" Margin="52,147,0,0"/>
+        <TextBox x:Name="textBox_Copy" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="{Binding Minutes}" VerticalAlignment="Top" Width="40" Margin="123,147,0,0"/>
+        <TextBox x:Name="textBox_Copy1" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="{Binding Seconds}" VerticalAlignment="Top" Width="40" Margin="196,147,0,0"/>
+        <Label x:Name="label" Content="Min" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="125,116,0,0"/>
+        <Label x:Name="label1" Content="Sec" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="196,116,0,0"/>
+        <Label x:Name="label_Copy" Content="Hr" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="54,116,0,0"/>
+        <Button x:Name="SentTime" Content="Set Time" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="297,150,0,0" Click="SentTime_Click"/>
+        <Button x:Name="SetAlarm" Content="Set Alarm" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="405,150,0,0" Click="SetAlarm_Click"/>
+        <Button x:Name="NOWTime" Content="NOW Time" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="297,214,0,0" Click="NOWTime_Click"/>
+        <Label x:Name="Status" Content="{Binding Status}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="52,264,0,0" Width="428" Height="49"/>
+
+    </Grid>
+</Window>

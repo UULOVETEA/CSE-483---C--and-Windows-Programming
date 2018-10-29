@@ -1,0 +1,14 @@
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPClient\UDPClient\bin\Debug\UDPClient.exe.config
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPClient\UDPClient\obj\Debug\UDPClient.csprojResolveAssemblyReference.cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPClient\UDPClient\obj\Debug\MainWindow.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPClient\UDPClient\obj\Debug\App.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPClient\UDPClient\obj\Debug\UDPClient_MarkupCompile.cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPClient\UDPClient\obj\Debug\UDPClient_MarkupCompile.lref
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPClient\UDPClient\bin\Debug\UDPClient.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPClient\UDPClient\bin\Debug\UDPClient.pdb
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPClient\UDPClient\obj\Debug\MainWindow.baml
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPClient\UDPClient\obj\Debug\UDPClient.g.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPClient\UDPClient\obj\Debug\UDPClient.Properties.Resources.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPClient\UDPClient\obj\Debug\UDPClient.csproj.GenerateResource.Cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPClient\UDPClient\obj\Debug\UDPClient.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPClient\UDPClient\obj\Debug\UDPClient.pdb

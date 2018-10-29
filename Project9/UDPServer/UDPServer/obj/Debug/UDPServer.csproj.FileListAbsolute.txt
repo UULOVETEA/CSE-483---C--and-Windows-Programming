@@ -1,0 +1,14 @@
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPServer\UDPServer\bin\Debug\UDPServer.exe.config
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPServer\UDPServer\bin\Debug\UDPServer.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPServer\UDPServer\bin\Debug\UDPServer.pdb
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPServer\UDPServer\obj\Debug\UDPServer.csprojResolveAssemblyReference.cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPServer\UDPServer\obj\Debug\MainWindow.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPServer\UDPServer\obj\Debug\App.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPServer\UDPServer\obj\Debug\UDPServer_MarkupCompile.cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPServer\UDPServer\obj\Debug\UDPServer_MarkupCompile.lref
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPServer\UDPServer\obj\Debug\MainWindow.baml
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPServer\UDPServer\obj\Debug\UDPServer.g.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPServer\UDPServer\obj\Debug\UDPServer.Properties.Resources.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPServer\UDPServer\obj\Debug\UDPServer.csproj.GenerateResource.Cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPServer\UDPServer\obj\Debug\UDPServer.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project9\UDPServer\UDPServer\obj\Debug\UDPServer.pdb

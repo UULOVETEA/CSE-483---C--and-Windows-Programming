@@ -1,0 +1,17 @@
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\CombinedLayout\CombinedLayout\bin\Debug\CombinedLayout.exe.config
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\CombinedLayout\CombinedLayout\obj\Debug\CombinedLayout.csprojResolveAssemblyReference.cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\CombinedLayout\CombinedLayout\obj\Debug\MainWindow.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\CombinedLayout\CombinedLayout\obj\Debug\App.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\CombinedLayout\CombinedLayout\obj\Debug\CombinedLayout_MarkupCompile.cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\CombinedLayout\CombinedLayout\obj\Debug\CombinedLayout_MarkupCompile.lref
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\CombinedLayout\CombinedLayout\bin\Debug\CombinedLayout.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\CombinedLayout\CombinedLayout\bin\Debug\CombinedLayout.pdb
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\CombinedLayout\CombinedLayout\obj\Debug\MainWindow.baml
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\CombinedLayout\CombinedLayout\obj\Debug\CombinedLayout.g.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\CombinedLayout\CombinedLayout\obj\Debug\CombinedLayout.Properties.Resources.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\CombinedLayout\CombinedLayout\obj\Debug\CombinedLayout.csproj.GenerateResource.Cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\CombinedLayout\CombinedLayout\obj\Debug\CombinedLayout.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\CombinedLayout\CombinedLayout\obj\Debug\CombinedLayout.pdb
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\CombinedLayout\CombinedLayout\bin\Debug\CombinedLayout.exe.config
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\CombinedLayout\CombinedLayout\obj\Debug\CombinedLayout.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\CombinedLayout\CombinedLayout\obj\Debug\CombinedLayout.pdb

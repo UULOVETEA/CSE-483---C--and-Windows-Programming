@@ -1,0 +1,14 @@
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleViewCalculator\SimpleViewCalculator\bin\Debug\SimpleViewCalculator.exe.config
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleViewCalculator\SimpleViewCalculator\bin\Debug\SimpleViewCalculator.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleViewCalculator\SimpleViewCalculator\bin\Debug\SimpleViewCalculator.pdb
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleViewCalculator\SimpleViewCalculator\obj\Debug\SimpleViewCalculator.csprojResolveAssemblyReference.cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleViewCalculator\SimpleViewCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleViewCalculator\SimpleViewCalculator\obj\Debug\App.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleViewCalculator\SimpleViewCalculator\obj\Debug\SimpleViewCalculator_MarkupCompile.cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleViewCalculator\SimpleViewCalculator\obj\Debug\SimpleViewCalculator_MarkupCompile.lref
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleViewCalculator\SimpleViewCalculator\obj\Debug\MainWindow.baml
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleViewCalculator\SimpleViewCalculator\obj\Debug\SimpleViewCalculator.g.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleViewCalculator\SimpleViewCalculator\obj\Debug\SimpleViewCalculator.Properties.Resources.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleViewCalculator\SimpleViewCalculator\obj\Debug\SimpleViewCalculator.csproj.GenerateResource.Cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleViewCalculator\SimpleViewCalculator\obj\Debug\SimpleViewCalculator.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\SimpleViewCalculator\SimpleViewCalculator\obj\Debug\SimpleViewCalculator.pdb

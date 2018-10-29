@@ -1,0 +1,32 @@
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\PaddleDemo\PaddleDemo\bin\Debug\PaddleDemo.exe.config
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\PaddleDemo\PaddleDemo\obj\Debug\MainWindow.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\PaddleDemo\PaddleDemo\obj\Debug\App.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\PaddleDemo\PaddleDemo\obj\Debug\PaddleDemo_MarkupCompile.cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\PaddleDemo\PaddleDemo\obj\Debug\PaddleDemo_MarkupCompile.lref
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\PaddleDemo\PaddleDemo\obj\Debug\PaddleDemo.csprojResolveAssemblyReference.cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\PaddleDemo\PaddleDemo\bin\Debug\PaddleDemo.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\PaddleDemo\PaddleDemo\bin\Debug\PaddleDemo.pdb
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\PaddleDemo\PaddleDemo\obj\Debug\MainWindow.baml
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\PaddleDemo\PaddleDemo\obj\Debug\PaddleDemo.g.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\PaddleDemo\PaddleDemo\obj\Debug\PaddleDemo.Properties.Resources.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\PaddleDemo\PaddleDemo\obj\Debug\PaddleDemo.csproj.GenerateResource.Cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\PaddleDemo\PaddleDemo\obj\Debug\PaddleDemo.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\PaddleDemo\PaddleDemo\obj\Debug\PaddleDemo.pdb
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project6\PaddleDemo\PaddleDemo\bin\Debug\PaddleDemo.exe.config
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project6\PaddleDemo\PaddleDemo\obj\Debug\PaddleDemo.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Project6\PaddleDemo\PaddleDemo\obj\Debug\PaddleDemo.pdb
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project6\PaddleDemo\PaddleDemo\bin\Debug\PaddleDemo.exe.config
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project6\PaddleDemo\PaddleDemo\bin\Debug\PaddleDemo.exe
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project6\PaddleDemo\PaddleDemo\bin\Debug\PaddleDemo.pdb
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project6\PaddleDemo\PaddleDemo\obj\Debug\PaddleDemo.csprojAssemblyReference.cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project6\PaddleDemo\PaddleDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project6\PaddleDemo\PaddleDemo\obj\Debug\App.g.cs
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project6\PaddleDemo\PaddleDemo\obj\Debug\PaddleDemo_MarkupCompile.cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project6\PaddleDemo\PaddleDemo\obj\Debug\PaddleDemo_MarkupCompile.lref
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project6\PaddleDemo\PaddleDemo\obj\Debug\MainWindow.baml
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project6\PaddleDemo\PaddleDemo\obj\Debug\PaddleDemo.g.resources
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project6\PaddleDemo\PaddleDemo\obj\Debug\PaddleDemo.Properties.Resources.resources
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project6\PaddleDemo\PaddleDemo\obj\Debug\PaddleDemo.csproj.GenerateResource.cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project6\PaddleDemo\PaddleDemo\obj\Debug\PaddleDemo.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project6\PaddleDemo\PaddleDemo\obj\Debug\PaddleDemo.exe
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Project6\PaddleDemo\PaddleDemo\obj\Debug\PaddleDemo.pdb
