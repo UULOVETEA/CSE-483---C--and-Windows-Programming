@@ -1,0 +1,22 @@
+﻿<Window x:Class="IntegerSetClassTester.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IntegerSetClassTester"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="Update_Button" Content="Update" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="70,160,0,0" Click="Update_Button_Click"/>
+        <TextBox x:Name="FirstSetInput_TextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="230" Margin="170,136,0,0" Text="{Binding Path=FirstSet}"/>
+        <TextBox x:Name="SecondSetInput_TextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="230" Margin="170,185,0,0" Text="{Binding Path=SecondSet}"/>
+        <TextBox x:Name="Union_TextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="230" Margin="170,235,0,0" IsEnabled="False" Text="{Binding Path=UnionNumbers}"/>
+        <TextBox x:Name="Intersection_TextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="230" Margin="170,265,0,0" IsEnabled="False" Text="{Binding Path=IntersectionNumbers}"/>
+        <Label x:Name="Set1Input_Label" Content="Set 1 Input" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="170,110,0,0"/>
+        <Label x:Name="Set2Input_Label" Content="Set 2 Input" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="170,160,0,0"/>
+        <Label x:Name="Union_Label" Content="Union" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="103,235,0,0"/>
+        <Label x:Name="Intersection_Label" Content="Intersection" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="73,265,0,0"/>
+        <Label x:Name="Status_Label" Content="{Binding Path=Status}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="65,30,0,0" Height="50" Width="400"/>
+        <GroupBox x:Name="Status_GroupBox" Header="Status" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Height="90" Width="497"/>
+    </Grid>
+</Window>

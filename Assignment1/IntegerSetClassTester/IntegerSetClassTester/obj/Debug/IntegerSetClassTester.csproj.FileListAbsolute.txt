@@ -1,0 +1,61 @@
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\IntegerSetClassTester\IntegerSetClassTester\bin\Debug\IntegerSetClassTester.exe.config
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\IntegerSetClassTester\IntegerSetClassTester\bin\Debug\IntegerSetClassTester.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\IntegerSetClassTester\IntegerSetClassTester\bin\Debug\IntegerSetClassTester.pdb
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\MainWindow.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\App.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester_MarkupCompile.cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester_MarkupCompile.lref
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\MainWindow.baml
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.g.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.Properties.Resources.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.csproj.GenerateResource.Cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.pdb
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.csprojResolveAssemblyReference.cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\IntegerSetClassTester\IntegerSetClassTester\bin\Debug\IntegerSetClassTester.exe.config
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.pdb
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\IntegerSetClassTester\IntegerSetClassTester\bin\Debug\IntegerSetClassTester.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\IntegerSetClassTester\IntegerSetClassTester\bin\Debug\IntegerSetClassTester.pdb
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.csprojResolveAssemblyReference.cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\MainWindow.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\App.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester_MarkupCompile.cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester_MarkupCompile.lref
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\MainWindow.baml
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.g.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.Properties.Resources.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.csproj.GenerateResource.Cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment1\IntegerSetClassTester\IntegerSetClassTester\bin\Debug\IntegerSetClassTester.exe.config
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.pdb
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment1\IntegerSetClassTester\IntegerSetClassTester\bin\Debug\IntegerSetClassTester.exe.config
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment1\IntegerSetClassTester\IntegerSetClassTester\bin\Debug\IntegerSetClassTester.exe
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment1\IntegerSetClassTester\IntegerSetClassTester\bin\Debug\IntegerSetClassTester.pdb
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.csprojAssemblyReference.cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\MainWindow.g.cs
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\App.g.cs
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester_MarkupCompile.cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester_MarkupCompile.lref
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\MainWindow.baml
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.g.resources
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.Properties.Resources.resources
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.csproj.GenerateResource.cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.exe
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.pdb
+D:\Github\CSE-483---C--and-Windows-Programming\Assignment1\IntegerSetClassTester\IntegerSetClassTester\bin\Debug\IntegerSetClassTester.exe.config
+D:\Github\CSE-483---C--and-Windows-Programming\Assignment1\IntegerSetClassTester\IntegerSetClassTester\bin\Debug\IntegerSetClassTester.exe
+D:\Github\CSE-483---C--and-Windows-Programming\Assignment1\IntegerSetClassTester\IntegerSetClassTester\bin\Debug\IntegerSetClassTester.pdb
+D:\Github\CSE-483---C--and-Windows-Programming\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.csprojAssemblyReference.cache
+D:\Github\CSE-483---C--and-Windows-Programming\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\MainWindow.g.cs
+D:\Github\CSE-483---C--and-Windows-Programming\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\App.g.cs
+D:\Github\CSE-483---C--and-Windows-Programming\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester_MarkupCompile.cache
+D:\Github\CSE-483---C--and-Windows-Programming\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester_MarkupCompile.lref
+D:\Github\CSE-483---C--and-Windows-Programming\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\MainWindow.baml
+D:\Github\CSE-483---C--and-Windows-Programming\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.g.resources
+D:\Github\CSE-483---C--and-Windows-Programming\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.Properties.Resources.resources
+D:\Github\CSE-483---C--and-Windows-Programming\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.csproj.GenerateResource.cache
+D:\Github\CSE-483---C--and-Windows-Programming\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.csproj.CoreCompileInputs.cache
+D:\Github\CSE-483---C--and-Windows-Programming\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.exe
+D:\Github\CSE-483---C--and-Windows-Programming\Assignment1\IntegerSetClassTester\IntegerSetClassTester\obj\Debug\IntegerSetClassTester.pdb
