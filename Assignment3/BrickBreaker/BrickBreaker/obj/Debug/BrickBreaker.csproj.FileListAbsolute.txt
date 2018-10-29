@@ -1,0 +1,29 @@
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.exe.config
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csprojResolveAssemblyReference.cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\MainWindow.baml
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\MainWindow.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\App.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker_MarkupCompile.cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.g.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.Properties.Resources.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csproj.GenerateResource.Cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.pdb
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\bin\Debug\PrecisionTimer.dll
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.pdb
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.exe.config
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.exe
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.pdb
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csprojAssemblyReference.cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\MainWindow.baml
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\MainWindow.g.cs
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\App.g.cs
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker_MarkupCompile.cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.g.resources
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.Properties.Resources.resources
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csproj.GenerateResource.cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csproj.CopyComplete
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.exe
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment3\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.pdb

@@ -1,0 +1,32 @@
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\bin\Debug\TicTacToe-Network.exe.config
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\MainWindow.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\App.g.cs
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\TicTacToe-Network_MarkupCompile.cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\TicTacToe-Network_MarkupCompile.lref
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\bin\Debug\TicTacToe-Network.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\bin\Debug\TicTacToe-Network.pdb
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\MainWindow.baml
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\TicTacToe-Network.g.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\TicTacToe_Network.Properties.Resources.resources
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\TicTacToe-Network.csproj.GenerateResource.Cache
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\TicTacToe-Network.exe
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\TicTacToe-Network.pdb
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\bin\Debug\SocketSetupWindow.dll
+C:\Users\xcao0\OneDrive\Spring 2017\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\TicTacToe-Network.csprojResolveAssemblyReference.cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\bin\Debug\TicTacToe-Network.exe.config
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\bin\Debug\TicTacToe-Network.exe
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\bin\Debug\TicTacToe-Network.pdb
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\bin\Debug\SocketSetupWindow.dll
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\TicTacToe-Network.csprojAssemblyReference.cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\MainWindow.g.cs
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\App.g.cs
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\TicTacToe-Network_MarkupCompile.cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\TicTacToe-Network_MarkupCompile.lref
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\MainWindow.baml
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\TicTacToe-Network.g.resources
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\TicTacToe_Network.Properties.Resources.resources
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\TicTacToe-Network.csproj.GenerateResource.cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\TicTacToe-Network.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\TicTacToe-Network.csproj.CopyComplete
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\TicTacToe-Network.exe
+C:\Users\Xiaomeng\Documents\Project\CSE483\Project\Assignment4\TicTacToe-Network\TicTacToe-Network\obj\Debug\TicTacToe-Network.pdb

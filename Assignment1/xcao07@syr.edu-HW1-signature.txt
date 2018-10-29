@@ -1,0 +1,415 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+///
+/// Program name: IntegerSetClassTester
+/// Author: Xiaomeng Cao
+/// Date: February 22,2 017
+/// Course: CSE-483
+///
+
+namespace IntegerSetClassTester
+{
+    class IntegerSet
+    {
+        private bool[] _set;
+
+        public bool[] Set
+        {
+            get { return _set; }
+            set { _set = value; }
+        }
+
+        /// <summary>
+        /// The constructor for the IntegerSet class
+        /// </summary>
+        public IntegerSet()
+        {
+            Console.Write("\n IntegerSet Constructed");
+            _set = new bool[101];
+            for (int i = 0; i < 101; i++)
+            {
+                _set[i] = false;
+            }
+        }
+
+        public IntegerSet(bool[] val)
+            :this()
+        {
+            Console.Write("\n Integer Constructed with bool[]");
+            int size = Math.Min(val.Length, 101);
+            for (int i = 0; i < size; i++)
+            {
+                _set[i] = val[i];
+            }
+        }
+
+        public IntegerSet Union(IntegerSet otherSet)
+        {
+            IntegerSet resultSet = new IntegerSet();
+            int counter = 0;
+
+            foreach (bool value in otherSet.Set)
+            {
+                if (value)
+                    resultSet.Set[counter] = true;
+                else if (_set[counter])
+                    resultSet.Set[counter] = true;
+                counter++;
+            }
+
+            return resultSet;
+        }
+
+        public IntegerSet Intersection(IntegerSet otherSet)
+        {
+            IntegerSet resultSet = new IntegerSet();
+            int counter;
+
+            for (counter = 0; counter < 101; counter++)
+            {
+                resultSet.Set[counter] = true;
+            }
+
+            counter = 0;
+            foreach (bool value in otherSet.Set)
+            {
+                if (!value)
+                    resultSet.Set[counter] = false;
+                else if (!_set[counter])
+                    resultSet.Set[counter] = false;
+                counter++;
+            }
+
+            return resultSet;
+        }
+
+        public void InsertElement(int k)
+        {
+            try
+            {
+                _set[k] = true;
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("The number" + k + "is an invalid number.\n Try another one");
+            }
+        }
+
+        public void DeleteElement(int k)
+        {
+            try
+            {
+                _set[k] = false;
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("The number" + k + "is an invalid number.\n Try another one");
+            }
+        }
+
+        public override string ToString()
+        {
+            string resultString = String.Empty;
+
+            for (int i = 0; i < _set.Length; i++)
+            {
+                if(_set[i])
+                {
+                    resultString = resultString + i + ", ";
+                }
+            }
+
+            return resultString;
+        }
+
+        public bool IsEqualTo(IntegerSet otherSet)
+        {
+            bool result = true;
+            int counter = 0;
+
+            foreach (bool value in otherSet.Set)
+            {
+                if (value != _set[counter])
+                    result = false;
+                counter++;
+            }
+
+            return result;
+        }
+
+        public void Clear()
+        {
+            for (int i = 0; i < _set.Length; i++)
+            {
+                _set[i] = false;
+            }
+        }
+    }
+}
+<Window x:Class="IntegerSetClassTester.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IntegerSetClassTester"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button x:Name="Update_Button" Content="Update" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="70,160,0,0" Click="Update_Button_Click"/>
+        <TextBox x:Name="FirstSetInput_TextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="230" Margin="170,136,0,0" Text="{Binding Path=FirstSet}"/>
+        <TextBox x:Name="SecondSetInput_TextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="230" Margin="170,185,0,0" Text="{Binding Path=SecondSet}"/>
+        <TextBox x:Name="Union_TextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="230" Margin="170,235,0,0" IsEnabled="False" Text="{Binding Path=UnionNumbers}"/>
+        <TextBox x:Name="Intersection_TextBox" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="230" Margin="170,265,0,0" IsEnabled="False" Text="{Binding Path=IntersectionNumbers}"/>
+        <Label x:Name="Set1Input_Label" Content="Set 1 Input" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="170,110,0,0"/>
+        <Label x:Name="Set2Input_Label" Content="Set 2 Input" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="170,160,0,0"/>
+        <Label x:Name="Union_Label" Content="Union" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="103,235,0,0"/>
+        <Label x:Name="Intersection_Label" Content="Intersection" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="73,265,0,0"/>
+        <Label x:Name="Status_Label" Content="{Binding Path=Status}" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="65,30,0,0" Height="50" Width="400"/>
+        <GroupBox x:Name="Status_GroupBox" Header="Status" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0" Height="90" Width="497"/>
+    </Grid>
+</Window>
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows;
+using System.Windows.Controls;
+using System.Windows.Data;
+using System.Windows.Documents;
+using System.Windows.Input;
+using System.Windows.Media;
+using System.Windows.Media.Imaging;
+using System.Windows.Navigation;
+using System.Windows.Shapes;
+
+///
+/// Program name: IntegerSetClassTester
+/// Author: Xiaomeng Cao
+/// Date: February 22,2 017
+/// Course: CSE-483
+///
+
+namespace IntegerSetClassTester
+{
+    /// <summary>
+    /// Interaction logic for MainWindow.xaml
+    /// </summary>
+    public partial class MainWindow : Window
+    {
+        private Model _myModel;
+        public MainWindow()
+        {
+            InitializeComponent();
+            _myModel = new Model();
+            this.DataContext = _myModel;
+        }
+
+        // function for update button
+        private void Update_Button_Click(object sender, RoutedEventArgs e)
+        {
+            // if one of two textboxes or both them are blank, promot user there is no input
+            if (FirstSetInput_TextBox.Text == "" || SecondSetInput_TextBox.Text == "")
+            {
+                _myModel.Status = "Error, one of the inputs is not set";
+                return;
+            }
+
+            // call update function to get union and intersection numbers
+            _myModel.Update();
+        }
+    }
+}
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.ComponentModel;
+using System.Windows;
+
+///
+/// Program name: IntegerSetClassTester
+/// Author: Xiaomeng Cao
+/// Date: February 22,2 017
+/// Course: CSE-483
+///
+
+namespace IntegerSetClassTester
+{
+    class Model : INotifyPropertyChanged
+    {
+        // define our property change event handler, part of data binding
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        // creat the instance of IntegerClass for union, intersection, set1, and set2
+        IntegerSet union;
+        IntegerSet intersection;
+        IntegerSet set1;
+        IntegerSet set2;
+
+        public Model()
+        {
+            union = new IntegerSet();
+            intersection = new IntegerSet();            
+        }
+
+        // data binding for first set textbox
+        private string _firstSet;
+        public string FirstSet
+        {
+            get { return _firstSet; }
+            set
+            {
+                set1 = new IntegerSet();
+                _firstSet = value;
+                OnPropertyChanged("FirstSet");
+
+                try
+                {
+                    // get the numbers without comma
+                    string[] firstSetNumber = FirstSet.Split(',');
+
+                    foreach (string stuff in firstSetNumber)
+                    {
+                        try
+                        {                           
+                            int number;
+                            // convert each string to int, and store into number
+                            number = Convert.ToInt32(stuff);
+                            // insert each number to set1
+                            set1.InsertElement(number);
+                            Status = "Set Entered Correctly";
+                        }
+                        catch (OverflowException)
+                        {
+                            Status = "One value is not even within converting range";
+                        }
+                        catch (FormatException)
+                        {
+                            Status = "You entered an unrecognizable character for converting";
+                        }
+                        catch (Exception)
+                        {
+                            Status = "Number is out of range of the Set";
+                        }
+                    }
+                }
+                catch (IndexOutOfRangeException)
+                {
+                    Status = "You didn't enter any values";
+                }
+            }
+        }
+
+        // data binding for second set textbox
+        private string _secondSet;
+        public string SecondSet
+        {
+            get { return _secondSet; }
+            set
+            {
+                set2 = new IntegerSet();
+                _secondSet = value;
+                OnPropertyChanged("SecondSet");
+
+                try
+                {                    
+                    // get the numbers without comma
+                    string[] secondSetNumber = SecondSet.Split(',');
+
+                    foreach (string stuff in secondSetNumber)
+                    {
+                        try
+                        {                            
+                            int number;
+                            // convert each string to int, and store into number
+                            number = Convert.ToInt32(stuff);
+                            // insert each number to set1
+                            set2.InsertElement(number);
+                            Status = "Set Entered Correctly";
+                        }
+                        catch (OverflowException)
+                        {
+                            Status = "One value is not even within converting range";
+                        }
+                        catch (FormatException)
+                        {
+                            Status = "You entered an unrecognizable character for converting";
+                        }
+                        catch (Exception)
+                        {
+                            Status = "Number is out of range of the Set";
+                        }
+                    }
+                }
+                catch (IndexOutOfRangeException)
+                {
+                    Status = "You didn't enter any values";
+                }                               
+            }
+        }
+
+        // data binding for union textbox
+        private string _unionNumbers;
+        public string UnionNumbers
+        {
+            get { return _unionNumbers; }
+            set
+            {
+                _unionNumbers = value;
+                OnPropertyChanged("UnionNumbers");
+            }
+        }
+
+        // data binding for intersection textbox
+        private string _intersectionNumbers;
+        public string IntersectionNumbers
+        {
+            get { return _intersectionNumbers; }
+            set
+            {
+                _intersectionNumbers = value;
+                OnPropertyChanged("IntersectionNumbers");
+            }
+        }
+
+        // data binding for status label
+        private string _status;
+        public string Status
+        {
+            get { return _status; }
+            set
+            {
+                _status = value;
+                OnPropertyChanged("Status");
+            }
+        }
+
+        // Function to find union and intersection between two integer set
+        public void Update()
+        {
+            // find the union numbers between set1 and set2
+            union = set1.Union(set2);
+            // convert union numbers to string
+            UnionNumbers = union.ToString();
+            // find the intersection numbers between set1 and set2
+            intersection = set2.Intersection(set1);
+            // convert intersection numbers to string
+            IntersectionNumbers = intersection.ToString();
+        }
+
+        // implements method for data binding to any and all properties
+        private void OnPropertyChanged(string propertyName)
+        {
+            if (PropertyChanged != null)
+            {
+                PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
+            }
+        }
+    }
+}
